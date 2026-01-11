@@ -1,0 +1,15 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "tc_deer",
+    "version": "0.1.0",
+    "entryPoint": "tc_deer_presenter.py",
+    "urls": {
+      "repository": "https://github.com/arkup/tc_deer"
+    },
+    "authors": [{
+      "name": "arkup",
+      "email": "arkkup@proton.me"
+    }]
+  }
+}
