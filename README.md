@@ -1,5 +1,7 @@
 # tc_deer - **T**ri**C**ore <b>De</b>compil<b>er</b> plugin for IDA pro
 
+![tc_deer demo](img/demo.gif)
+
 **Description**
 _______________________________
 
