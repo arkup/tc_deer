@@ -11,7 +11,7 @@ The release zip contains an engine .dll and a Python presenter script. The prese
 
 The engine source is messy and not released, it needs significant cleanup and refactoring.
 
-Windows build only, compiled for **IDA Pro 9.2**.
+Windows build only, compiled for **IDA Pro 9.2 or newer**.
 
 Bugs or suggestions? Please open a GitHub issue.
 
